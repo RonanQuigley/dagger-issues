@@ -1,0 +1,14 @@
+{
+  "name": "dagger-issues",
+  "packageManager": "yarn@3.6.4",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.9.0",
+    "electron": "^13.3.0",
+    "puppeteer": "^10.4.0",
+    "three": "^0.133.1",
+    "webpack": "^5.58.2"
+  },
+  "devDependencies": {
+    "@dagger.io/dagger": "0.8.8"
+  }
+}

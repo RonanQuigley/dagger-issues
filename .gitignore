@@ -1,0 +1,4 @@
+npm-packages-offline-cache
+.yarn/cache
+node_modules
+*.tar.gz
